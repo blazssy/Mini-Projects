@@ -48,4 +48,4 @@ Crafted by [D Shreyas} – passionate about creative JavaScript and real-time da
 
 ---
 
-Let me know if you want help adding customization options, a toggle for color themes, or a pause/play button for finer control. We can even extend it with FFT visualizations or microphone input!
+
