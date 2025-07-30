@@ -1,4 +1,4 @@
-Awesome! Here's a polished GitHub-style README section you can use to showcase your **Audio Frequency Visualizer** project:
+
 
 ---
 
